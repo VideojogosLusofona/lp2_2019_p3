@@ -80,7 +80,7 @@ objetivos têm de ser parcialmente ou totalmente cumpridos.
 ## Entrega
 
 O projeto a ser entregue em DJD2 ou AP deve também ser submetido no Moodle na
-disciplina de LP2 até às **23h55 de dia 15 de janeiro de 2020**. Para avaliação
+disciplina de LP2 até às **23h55 de dia 23 de janeiro de 2020**. Para avaliação
 simultânea em LP2, o projeto entregue deve ter os seguintes conteúdos:
 
 * Pasta escondida `.git` com o repositório Git local do projeto.
